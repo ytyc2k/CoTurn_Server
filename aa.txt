@@ -1,10 +1,17 @@
-jsfljsfklsjf
+https://blog.csdn.net/lamb7758/article/details/77045735
 
+https://blog.csdn.net/fightfaith/article/details/73276323
 
-fssfsjfklsfjsfjhaha
+https://blog.csdn.net/day_day_up1991/article/details/52253892
 
-hahfsfsfsfa
-haha123.0.0.1haha
-##fsjlskfjklsf
-#haha123.0.0.1haha
-fkfsjla200
+https://www.jianshu.com/p/c55ecf5a3fcf
+
+https://www.jianshu.com/p/c55ecf5a3fcf
+
+https://www.jianshu.com/p/49920993b0a7
+
+sudo turnadmin -d –u "yangtong"
+
+sudo turnserver –syslog -a -L 172.31.59.253 -X 54.175.204.133 -E 172.31.59.253 -f –min-port=32355 –max-port=65535 –user=umumbrela:umbrela -r umbrela –log-file=stdout -v
+turnutils_uclient -u umbrela  -w umbrela  -p PORT -v LISTEN-ADDRESS
+turnutils_uclient -v -t -T -y -u umbrela -w umbrela 172.31.59.253
